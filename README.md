@@ -30,4 +30,4 @@ Men 1 yildan ortiq vaqt davomida zamonaviy va foydalanuvchilar uchun qulay web-s
 </p>
 
 ---
-📫 **Bog'lanish:** [Emailingizni shu yerga yozing]
+📫 **Bog'lanish:** [shohruhbekmamasoliyev2009@gnail.com]
