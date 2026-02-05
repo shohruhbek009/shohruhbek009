@@ -1,16 +1,33 @@
-## Hi there 👋
+### Salom, men Shohruxbek Mamasoliyev! 👋
 
-<!--
-**shohruhbek009/shohruhbek009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Engineer** | HTML, CSS, JavaScript mutaxassisi
 
-Here are some ideas to get you started:
+Men 1 yildan ortiq vaqt davomida zamonaviy va foydalanuvchilar uchun qulay web-saytlar yaratish bilan shug'ullanaman. Kodning sifati va dizaynning aniqligiga (Pixel Perfect) katta e'tibor beraman.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Hozirda: **JavaScript logikasi va DOM manipulyatsiyasi** ustida ishlayapman.
+- 💻 Asosiy ko'nikmalarim: **HTML5, CSS3, JavaScript (ES6+)**.
+- 🌱 Maqsadim: Kuchli Frontend arxitekturasini qurishni o'rganish.
+
+---
+
+### 🛠 Texnologiyalar va Qurollar:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Statistikam:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shohruhbek009&show_icons=true&theme=radical&hide_border=true" alt="Shohruxbek's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruhbek009&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+---
+📫 **Bog'lanish:** [Emailingizni shu yerga yozing]
