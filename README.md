@@ -22,12 +22,7 @@ Men 1 yildan ortiq vaqt davomida zamonaviy va foydalanuvchilar uchun qulay web-s
 
 ---
 
-### 📊 GitHub Statistikam:
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shohruhbek009&show_icons=true&theme=radical&hide_border=true" alt="Shohruxbek's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohruhbek009&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 📫 **Bog'lanish:** [shohruhbekmamasoliyev2009@gnail.com]
